@@ -1,0 +1,9 @@
+
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+npm i react-native-vector-icons
+npm i react-native-animated-loader
+npm install --save react-native-indicators
+npm i @react-native-async-storage/async-storage
+npm i react-native-alert-notification
